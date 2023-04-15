@@ -1,7 +1,7 @@
 <%-- 
-    Document   : propmtUpdateDonor
+    Document   : propmtDonorUpdate
     Created on : 04 16, 23, 3:39:46 AM
-    Author     : ccslearner
+    Author     : Angelo Richter Dela Cruz
 --%>
 
 <%@ page import="java.util.*" %>

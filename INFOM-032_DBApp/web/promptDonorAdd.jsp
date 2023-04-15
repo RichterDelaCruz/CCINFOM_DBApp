@@ -1,9 +1,12 @@
-<%@ page import="java.sql.*" %>
-<%@ page import="javax.sql.*" %>
-<%@ page import="java.io.*" %>
+<%-- 
+    Document   : propmtDonorAdd
+    Created on : 04 16, 23, 12:25:01 AM
+    Author     : Angelo Richter Dela Cruz
+--%>
+
 <%@ page import="java.util.*" %>
-<%@ page import="java.text.*" %>
-<%@ page contentType="text/html" pageEncoding="UTF-8"%>
+<%@ page import="assetmgt.DonationManager" %>
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>

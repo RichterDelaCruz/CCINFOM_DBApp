@@ -1,7 +1,7 @@
 <%-- 
-    Document   : recordDonation
+    Document   : propmtDonationRecord
     Created on : 04 16, 23, 12:42:22 AM
-    Author     : ccslearner
+    Author     : Angelo Richter Dela Cruz
 --%>
 <%@ page import="java.util.*" %>
 <%@ page import="assetmgt.DonationManager" %>
